@@ -1,0 +1,11 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Nunito:wght@300;500;600&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    
+font-family: 'Nunito', sans-serif , 'Acme' ;
+/* background-color: red; */
+}
