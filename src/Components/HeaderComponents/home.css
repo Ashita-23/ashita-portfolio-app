@@ -30,7 +30,7 @@ width: 100vw;
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
-    /* justify-content: space-evenly; */
+    justify-content:center;
     height: 40vh;
     width: 25vw;
     margin: 1rem;
@@ -41,7 +41,7 @@ width: 100vw;
     flex-direction:column;
     flex-wrap: nowrap;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     height: 40vh;
     width: 25vw;
     margin: 1rem;
@@ -49,6 +49,11 @@ width: 100vw;
 
 
 
+.intro-btn{
+
+padding: 0.5rem;
+font-size: 1.2rem;
+}
 
 /* Home media query */
 

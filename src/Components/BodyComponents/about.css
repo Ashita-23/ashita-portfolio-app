@@ -1,5 +1,39 @@
 
+.about-containor{
+    width: 99vw;
+    height: auto;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+}
 
+.about-subcontainor{
+    width: 60vw;
+    height: 40vh;
+    padding: 1rem;
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+align-items: center;
+justify-content: center;
+border: 1px solid black;
+}
+
+.about-heading{
+
+}
+
+.about-text{
+
+}
+
+.about-btn{
+padding: 0.5rem;
+font-size: 1.2rem;
+}
 
 
 

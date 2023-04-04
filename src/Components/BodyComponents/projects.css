@@ -1,5 +1,29 @@
+.project-containor{
+    width: 99vw;
+    height: auto;
+    border: 1px solid black;
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+align-items: center;
+justify-content: center;
+}
 
 
+.project-heading{
+
+}
+
+.projects-card-holder{
+    height: auto;
+        width: 99vw;
+        border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
 
 
 
